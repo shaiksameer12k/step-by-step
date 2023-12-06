@@ -12,6 +12,9 @@
 [https://www.devui.io/components]
 # As a for functional UI Components (radix-ui)
 [https://www.radix-ui.com/themes/docs/overview/getting-started]
+#As for Graph Charts Bars (tremor)
+[https://www.tremor.so/docs/getting-started/installation]
+
 
 
 
